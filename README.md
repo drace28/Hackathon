@@ -1,1 +1,1 @@
-# Hackathon
+# Minthub
